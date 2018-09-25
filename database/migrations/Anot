@@ -1,0 +1,9 @@
+php artisan migrate:fresh
+
+limpar todas as tabelas, tudo que tem na base de dados (drop table)
+
+php artisan migrate:reset
+
+comecar do zero
+
+
